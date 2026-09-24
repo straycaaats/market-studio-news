@@ -1,0 +1,10 @@
+{
+  "name": "market-studio-cloud-news",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "update": "node update-news.mjs",
+    "test": "node --test update-news.test.mjs"
+  }
+}
