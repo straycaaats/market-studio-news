@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "generatedAt": "2026-09-24T12:02:21.065Z",
+  "asOf": "2026-09-24",
+  "sourceResults": [
+    {
+      "source": "総務省統計局",
+      "status": "FETCHED",
+      "read": 15,
+      "added": 15,
+      "fetchedAt": "2026-09-24T12:02:21.065Z"
+    },
+    {
+      "source": "日本銀行",
+      "status": "FETCHED",
+      "read": 59,
+      "added": 59,
+      "fetchedAt": "2026-09-24T12:02:21.065Z"
+    }
+  ],
+  "counts": {
+    "fetchedToday": 74,
+    "newsMemoryTotal": 74,
+    "adoptedCards": 4,
+    "failedSources": 0
+  }
+}
