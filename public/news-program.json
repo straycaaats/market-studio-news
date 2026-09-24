@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-24T12:02:21.065Z",
-  "asOf": "2026-09-24",
+  "generatedAt": "2026-09-24T17:40:26.206Z",
+  "asOf": "2026-09-25",
   "counts": {
-    "fetchedToday": 74,
+    "fetchedToday": 0,
     "newsMemoryTotal": 74,
     "adoptedCards": 4,
     "failedSources": 0
@@ -12,15 +12,15 @@
       "source": "総務省統計局",
       "status": "FETCHED",
       "read": 15,
-      "added": 15,
-      "fetchedAt": "2026-09-24T12:02:21.065Z"
+      "added": 0,
+      "fetchedAt": "2026-09-24T17:40:26.206Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
       "read": 59,
-      "added": 59,
-      "fetchedAt": "2026-09-24T12:02:21.065Z"
+      "added": 0,
+      "fetchedAt": "2026-09-24T17:40:26.206Z"
     }
   ],
   "sourceAudit": [
@@ -42,12 +42,12 @@
     {
       "id": "overview",
       "category": "今日の全体像",
-      "title": "公式情報を74件確認",
-      "summary": "休場日を含め、公式情報を毎日確認しています。",
+      "title": "新しい公式情報は未確認",
+      "summary": "前回までの記録を引き継いでいます。",
       "status": "FACT",
       "source": "NEWS MEMORY",
       "publishedAt": null,
-      "firstSeenAt": "2026-09-24T12:02:21.065Z",
+      "firstSeenAt": "2026-09-24T17:40:26.206Z",
       "links": []
     },
     {
@@ -55,7 +55,7 @@
       "category": "金融政策・市場",
       "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（千葉県、東京都）",
       "summary": "日本銀行の公式発表です。公開時刻を確認済みです。",
-      "status": "NEW",
+      "status": "FOLLOW_UP",
       "source": "日本銀行",
       "publishedAt": "2026-09-24T07:00:00.000Z",
       "firstSeenAt": "2026-09-24T12:02:21.065Z",
@@ -73,7 +73,7 @@
       "category": "暮らし・雇用",
       "title": "人口推計（2026年（令和8年）9月報）",
       "summary": "総務省統計局の公式発表です。公開日は確認済みですが、正確な時刻は未確認です。",
-      "status": "NEW",
+      "status": "FOLLOW_UP",
       "source": "総務省統計局",
       "publishedAt": "2026-09-24",
       "firstSeenAt": "2026-09-24T12:02:21.065Z",
@@ -91,7 +91,7 @@
       "category": "景気・企業",
       "title": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
       "summary": "総務省統計局の公式発表です。公開日は確認済みですが、正確な時刻は未確認です。",
-      "status": "NEW",
+      "status": "FOLLOW_UP",
       "source": "総務省統計局",
       "publishedAt": "2026-09-24",
       "firstSeenAt": "2026-09-24T12:02:21.065Z",
