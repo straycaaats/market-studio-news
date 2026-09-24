@@ -1,5 +1,7 @@
 import fs from 'node:fs/promises';
 import crypto from 'node:crypto';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 export const sources = [
   { name: '総務省統計局', type: 'STATISTICS', url: 'https://www.stat.go.jp/whatsnew/news.rdf', method: '公式RSS', status: 'VERIFIED' },
@@ -108,4 +110,4 @@ export async function run({ now = new Date(), fetchImpl = fetch } = {}) {
   return program;
 }
 
-if (process.argv[1] && import.meta.url === new URL(`file:///${process.argv[1].replace(/\\/g, '/')}`).href) await run();
+if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1])) await run();
