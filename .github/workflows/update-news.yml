@@ -1,0 +1,47 @@
+name: Update 60-second news
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # 07:00 JST
+    - cron: '0 13 * * *' # 22:00 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: market-studio-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm test
+      - run: npm run update
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.0-flash
+      - name: Preserve NEWS MEMORY
+        run: |
+          git config user.name "market-studio-news-bot"
+          git config user.email "market-studio-news-bot@users.noreply.github.com"
+          git add data/news-memory.json public/news-program.json public/status.json
+          git diff --cached --quiet || git commit -m "news: update $(date -u +%FT%TZ)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
