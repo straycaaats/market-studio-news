@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-09-24T17:40:26.206Z",
+  "generatedAt": "2026-09-24T23:09:07.154Z",
   "asOf": "2026-09-25",
+  "edition": "MORNING",
+  "heading": "今日見る材料",
   "counts": {
     "fetchedToday": 0,
     "newsMemoryTotal": 74,
-    "adoptedCards": 4,
+    "considered": 1,
+    "adoptedCards": 1,
     "failedSources": 0
   },
   "sourceResults": [
@@ -13,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-09-24T17:40:26.206Z"
+      "fetchedAt": "2026-09-24T23:09:07.154Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
       "read": 59,
       "added": 0,
-      "fetchedAt": "2026-09-24T17:40:26.206Z"
+      "fetchedAt": "2026-09-24T23:09:07.154Z"
     }
   ],
   "sourceAudit": [
@@ -37,78 +40,34 @@
       "status": "VERIFIED"
     }
   ],
-  "summaryMode": "OFFICIAL_TITLE_FALLBACK",
+  "summaryMode": "RULE_BASED_VERIFIED_TEXT",
   "cards": [
-    {
-      "id": "overview",
-      "category": "今日の全体像",
-      "title": "新しい公式情報は未確認",
-      "summary": "前回までの記録を引き継いでいます。",
-      "status": "FACT",
-      "source": "NEWS MEMORY",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-24T17:40:26.206Z",
-      "links": []
-    },
-    {
-      "id": "40273120860cd5a5db1270e3ab3736e26688bf8f753001c8e496020e774ba77d",
-      "category": "金融政策・市場",
-      "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（千葉県、東京都）",
-      "summary": "日本銀行の公式発表です。公開時刻を確認済みです。",
-      "status": "FOLLOW_UP",
-      "source": "日本銀行",
-      "publishedAt": "2026-09-24T07:00:00.000Z",
-      "firstSeenAt": "2026-09-24T12:02:21.065Z",
-      "links": [
-        {
-          "title": "令和8年台風第25号に伴う災害等に対する金融上の措置について（千葉県、東京都）",
-          "url": "https://www.boj.or.jp/about/bcp/fso/fso260924a.pdf",
-          "source": "日本銀行"
-        }
-      ],
-      "related": []
-    },
-    {
-      "id": "fb37ff08ec98c7137f87dea967af55375cc5661bcc3a0ac36b70d9a341f0e2c2",
-      "category": "暮らし・雇用",
-      "title": "人口推計（2026年（令和8年）9月報）",
-      "summary": "総務省統計局の公式発表です。公開日は確認済みですが、正確な時刻は未確認です。",
-      "status": "FOLLOW_UP",
-      "source": "総務省統計局",
-      "publishedAt": "2026-09-24",
-      "firstSeenAt": "2026-09-24T12:02:21.065Z",
-      "links": [
-        {
-          "title": "人口推計（2026年（令和8年）9月報）",
-          "url": "https://www.stat.go.jp/data/jinsui/new.html",
-          "source": "総務省統計局"
-        }
-      ],
-      "related": []
-    },
     {
       "id": "b025e66afee3f7857ef56fee41bd3af06eec22eba126869216c82bdeacec226f",
       "category": "景気・企業",
       "title": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
-      "summary": "総務省統計局の公式発表です。公開日は確認済みですが、正確な時刻は未確認です。",
+      "summary": "前年同月に比べ5.0％の増加で、57か月連続の増加。",
+      "whatHappened": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
+      "whatChanged": "前年同月に比べ5.0％の増加で、57か月連続の増加。",
+      "relatedThemes": [
+        "サービス業"
+      ],
       "status": "FOLLOW_UP",
       "source": "総務省統計局",
       "publishedAt": "2026-09-24",
       "firstSeenAt": "2026-09-24T12:02:21.065Z",
+      "contentStatus": "VERIFIED_TEXT",
       "links": [
         {
           "title": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
           "url": "https://www.stat.go.jp/data/mbss/kekka.html",
           "source": "総務省統計局"
         }
-      ],
-      "related": []
+      ]
     }
   ],
   "summary": [
-    "令和8年台風第25号に伴う災害等に対する金融上の措置について（千葉県、東京都）",
-    "人口推計（2026年（令和8年）9月報）",
-    "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）"
+    "前年同月に比べ5.0％の増加で、57か月連続の増加。"
   ],
-  "qualityNote": "公式RSSの見出しと時刻だけを根拠に生成。株価への影響や売買判断は示さない。"
+  "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
