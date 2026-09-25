@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T00:16:41.048Z",
+  "generatedAt": "2026-09-25T14:22:18.223Z",
   "asOf": "2026-09-25",
-  "edition": "MORNING",
-  "heading": "今日見る材料",
+  "edition": "EVENING",
+  "heading": "今日の振り返り",
   "counts": {
-    "fetchedToday": 1,
-    "newsMemoryTotal": 75,
+    "fetchedToday": 12,
+    "newsMemoryTotal": 86,
     "considered": 2,
-    "adoptedCards": 1,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -15,15 +15,15 @@
       "source": "総務省統計局",
       "status": "FETCHED",
       "read": 15,
-      "added": 0,
-      "fetchedAt": "2026-09-25T00:16:41.048Z"
+      "added": 1,
+      "fetchedAt": "2026-09-25T14:22:18.223Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 60,
-      "added": 1,
-      "fetchedAt": "2026-09-25T00:16:41.048Z"
+      "read": 68,
+      "added": 10,
+      "fetchedAt": "2026-09-25T14:22:18.223Z"
     }
   ],
   "sourceAudit": [
@@ -41,33 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "b025e66afee3f7857ef56fee41bd3af06eec22eba126869216c82bdeacec226f",
-      "category": "景気・企業",
-      "title": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
-      "summary": "前年同月に比べ5.0％の増加で、57か月連続の増加。",
-      "whatHappened": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
-      "whatChanged": "前年同月に比べ5.0％の増加で、57か月連続の増加。",
-      "relatedThemes": [
-        "サービス業"
-      ],
-      "status": "FOLLOW_UP",
-      "source": "総務省統計局",
-      "publishedAt": "2026-09-24",
-      "firstSeenAt": "2026-09-24T12:02:21.065Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "サービス産業動態統計調査（2026年（令和8年）7月分速報、2026年（令和8年）4月分確報）",
-          "url": "https://www.stat.go.jp/data/mbss/kekka.html",
-          "source": "総務省統計局"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "前年同月に比べ5.0％の増加で、57か月連続の増加。"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
