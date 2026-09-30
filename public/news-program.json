@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-30T01:04:22.948Z",
-  "asOf": "2026-09-30",
+  "generatedAt": "2026-09-30T15:31:25.585Z",
+  "asOf": "2026-10-01",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
-    "fetchedToday": 2,
-    "newsMemoryTotal": 90,
-    "considered": 2,
-    "adoptedCards": 1,
+    "fetchedToday": 5,
+    "newsMemoryTotal": 95,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-09-30T01:04:22.948Z"
+      "fetchedAt": "2026-09-30T15:31:25.585Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 65,
-      "added": 0,
-      "fetchedAt": "2026-09-30T01:04:22.948Z"
+      "read": 70,
+      "added": 5,
+      "fetchedAt": "2026-09-30T15:31:25.585Z"
     }
   ],
   "sourceAudit": [
@@ -41,31 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "4a4d2e049f5976a39f6ee2ffc94eac1986f002fb393666890be9c835fe6ee487",
-      "category": "暮らし・消費",
-      "title": "住民基本台帳人口移動報告 2026年（令和8年）8月分",
-      "summary": "統計表へ 概況へ（PDF：153KB） 日本国内における移動状況 全国の移動者数（移動者、日本人移動者、外国人移動者） 移動者の市区町村間移動者数は35万6920人と、前年同月に比べ8318人（2.4％）増加。",
-      "whatHappened": "住民基本台帳人口移動報告 2026年（令和8年）8月分",
-      "whatChanged": "統計表へ 概況へ（PDF：153KB） 日本国内における移動状況 全国の移動者数（移動者、日本人移動者、外国人移動者） 移動者の市区町村間移動者数は35万6920人と、前年同月に比べ8318人（2.4％）増加。",
-      "relatedThemes": [],
-      "status": "NEW",
-      "source": "総務省統計局",
-      "publishedAt": "2026-09-29",
-      "firstSeenAt": "2026-09-29T15:17:35.565Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "住民基本台帳人口移動報告 2026年（令和8年）8月分",
-          "url": "https://www.stat.go.jp/data/idou/sokuhou/tsuki/index.html",
-          "source": "総務省統計局"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "統計表へ 概況へ（PDF：153KB） 日本国内における移動状況 全国の移動者数（移動者、日本人移動者、外国人移動者） 移動者の市区町村間移動者数は35万6920人と、前年同月に比べ8318人（2.4％）増加。"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
