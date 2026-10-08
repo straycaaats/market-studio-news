@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T16:00:18.234Z",
+  "generatedAt": "2026-10-08T01:33:43.843Z",
   "asOf": "2026-10-08",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
-    "fetchedToday": 0,
-    "newsMemoryTotal": 114,
-    "considered": 1,
-    "adoptedCards": 1,
+    "fetchedToday": 1,
+    "newsMemoryTotal": 115,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-10-07T16:00:18.234Z"
+      "fetchedAt": "2026-10-08T01:33:43.843Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 73,
-      "added": 0,
-      "fetchedAt": "2026-10-07T16:00:18.234Z"
+      "read": 74,
+      "added": 1,
+      "fetchedAt": "2026-10-08T01:33:43.843Z"
     }
   ],
   "sourceAudit": [
@@ -41,35 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "985359089e171009df4d894deb07378b534c48e005fec3abf6288a954e317380",
-      "category": "金融政策・市場",
-      "title": "営業毎旬報告（9月30日現在）",
-      "summary": "主要項目の前年比増減とその背景は、概ね以下のとおりである。",
-      "whatHappened": "営業毎旬報告（9月30日現在）",
-      "whatChanged": "主要項目の前年比増減とその背景は、概ね以下のとおりである。",
-      "relatedThemes": [
-        "銀行・保険",
-        "輸出・製造業",
-        "国債・円相場"
-      ],
-      "status": "FOLLOW_UP",
-      "source": "日本銀行",
-      "publishedAt": "2026-10-07T01:00:00.000Z",
-      "firstSeenAt": "2026-10-07T01:12:53.339Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "営業毎旬報告（9月30日現在）",
-          "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260930.htm",
-          "source": "日本銀行"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "主要項目の前年比増減とその背景は、概ね以下のとおりである。"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
