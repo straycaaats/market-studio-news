@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T16:02:33.246Z",
+  "generatedAt": "2026-10-09T01:44:52.893Z",
   "asOf": "2026-10-09",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
     "fetchedToday": 5,
     "newsMemoryTotal": 120,
-    "considered": 2,
-    "adoptedCards": 2,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-10-08T16:02:33.246Z"
+      "fetchedAt": "2026-10-09T01:44:52.893Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 79,
-      "added": 5,
-      "fetchedAt": "2026-10-08T16:02:33.246Z"
+      "read": 76,
+      "added": 0,
+      "fetchedAt": "2026-10-09T01:44:52.893Z"
     }
   ],
   "sourceAudit": [
@@ -41,61 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "973935304ad5d87e8f2674427a1998ff9f6c8c3eeb0d5343d7ffe4055a5f82af",
-      "category": "金融政策・市場",
-      "title": "金融経済調査および統計作成事務に関する「短期リサーチスタッフ」の募集について",
-      "summary": "実際の勤務形態は採用時に個別に相談のうえ決定します。",
-      "whatHappened": "金融経済調査および統計作成事務に関する「短期リサーチスタッフ」の募集について",
-      "whatChanged": "実際の勤務形態は採用時に個別に相談のうえ決定します。",
-      "relatedThemes": [
-        "銀行・保険",
-        "小売・消費",
-        "国債・円相場"
-      ],
-      "status": "NEW",
-      "source": "日本銀行",
-      "publishedAt": "2026-10-08T06:00:00.000Z",
-      "firstSeenAt": "2026-10-08T16:02:33.246Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "金融経済調査および統計作成事務に関する「短期リサーチスタッフ」の募集について",
-          "url": "https://www.boj.or.jp/about/recruit/rec261008a.htm",
-          "source": "日本銀行"
-        }
-      ]
-    },
-    {
-      "id": "870694b5e7313de16e1551a92d98c13360ab8a2f70de75a07ce3c23ef8e25d19",
-      "category": "金融政策・市場",
-      "title": "地域経済報告（さくらレポート、2026年10月）",
-      "summary": "（2）各地域の需要項目等別の判断 表：各地域の需要項目等別の判断 公共投資 設備投資 個人消費 北海道 緩やかに増加している 緩やかに増加している 物価上昇の影響を受けつつも、底堅く推移している 東北 横ばい圏内の動きとなっている 増加基調にある 緩やかに回復している 北陸 高水準となっている 増加",
-      "whatHappened": "地域経済報告（さくらレポート、2026年10月）",
-      "whatChanged": "（2）各地域の需要項目等別の判断 表：各地域の需要項目等別の判断 公共投資 設備投資 個人消費 北海道 緩やかに増加している 緩やかに増加している 物価上昇の影響を受けつつも、底堅く推移している 東北 横ばい圏内の動きとなっている 増加基調にある 緩やかに回復している 北陸 高水準となっている 増加",
-      "relatedThemes": [
-        "銀行・保険",
-        "不動産",
-        "小売・消費"
-      ],
-      "status": "NEW",
-      "source": "日本銀行",
-      "publishedAt": "2026-10-08T05:00:00.000Z",
-      "firstSeenAt": "2026-10-08T16:02:33.246Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "地域経済報告（さくらレポート、2026年10月）",
-          "url": "https://www.boj.or.jp/research/brp/rer/rer261008.htm",
-          "source": "日本銀行"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "実際の勤務形態は採用時に個別に相談のうえ決定します。",
-    "（2）各地域の需要項目等別の判断 表：各地域の需要項目等別の判断 公共投資 設備投資 個人消費 北海道 緩やかに増加している 緩やかに増加している 物価上昇の影響を受けつつも、底堅く推移している 東北 横ばい圏内の動きとなっている 増加基調にある 緩やかに回復している 北陸 高水準となっている 増加"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
