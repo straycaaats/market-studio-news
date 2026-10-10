@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T15:44:41.604Z",
+  "generatedAt": "2026-10-10T01:31:22.954Z",
   "asOf": "2026-10-10",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
     "fetchedToday": 4,
     "newsMemoryTotal": 124,
-    "considered": 1,
-    "adoptedCards": 1,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-10-09T15:44:41.604Z"
+      "fetchedAt": "2026-10-10T01:31:22.954Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 78,
-      "added": 4,
-      "fetchedAt": "2026-10-09T15:44:41.604Z"
+      "read": 77,
+      "added": 0,
+      "fetchedAt": "2026-10-10T01:31:22.954Z"
     }
   ],
   "sourceAudit": [
@@ -41,34 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "190b66097aeb8f9ac3e4306f7585b29a10475144ff8da491d82cd527deef91f2",
-      "category": "金融政策・市場",
-      "title": "わが国短期金融市場の動向",
-      "summary": "概要 短期金融市場の取引残高（7月末時点）は、資金調達残高が前年から減少した一方、資金運用残高は前年から増加した。",
-      "whatHappened": "わが国短期金融市場の動向",
-      "whatChanged": "概要 短期金融市場の取引残高（7月末時点）は、資金調達残高が前年から減少した一方、資金運用残高は前年から増加した。",
-      "relatedThemes": [
-        "銀行・保険",
-        "国債・円相場"
-      ],
-      "status": "NEW",
-      "source": "日本銀行",
-      "publishedAt": "2026-10-09T04:00:00.000Z",
-      "firstSeenAt": "2026-10-09T15:44:41.604Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "わが国短期金融市場の動向",
-          "url": "https://www.boj.or.jp/paym/market/market2610.htm",
-          "source": "日本銀行"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "概要 短期金融市場の取引残高（7月末時点）は、資金調達残高が前年から減少した一方、資金運用残高は前年から増加した。"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
