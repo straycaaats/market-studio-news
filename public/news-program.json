@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T00:40:41.615Z",
-  "asOf": "2026-10-11",
+  "generatedAt": "2026-10-11T15:15:52.797Z",
+  "asOf": "2026-10-12",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-10-11T00:40:41.615Z"
+      "fetchedAt": "2026-10-11T15:15:52.797Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 76,
+      "read": 74,
       "added": 0,
-      "fetchedAt": "2026-10-11T00:40:41.615Z"
+      "fetchedAt": "2026-10-11T15:15:52.797Z"
     }
   ],
   "sourceAudit": [
