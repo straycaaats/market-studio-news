@@ -1,29 +1,29 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-13T02:50:21.450Z",
-  "asOf": "2026-10-13",
+  "generatedAt": "2026-10-13T16:40:13.537Z",
+  "asOf": "2026-10-14",
   "edition": "MORNING",
   "sourceResults": [
     {
       "source": "総務省統計局",
       "status": "FETCHED",
       "read": 15,
-      "added": 0,
-      "fetchedAt": "2026-10-13T02:50:21.450Z"
+      "added": 1,
+      "fetchedAt": "2026-10-13T16:40:13.537Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
       "read": 72,
-      "added": 2,
-      "fetchedAt": "2026-10-13T02:50:21.450Z"
+      "added": 4,
+      "fetchedAt": "2026-10-13T16:40:13.537Z"
     }
   ],
   "counts": {
-    "fetchedToday": 2,
-    "newsMemoryTotal": 126,
-    "considered": 0,
-    "adoptedCards": 0,
+    "fetchedToday": 5,
+    "newsMemoryTotal": 131,
+    "considered": 1,
+    "adoptedCards": 1,
     "failedSources": 0
   }
 }
