@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T16:40:13.537Z",
+  "generatedAt": "2026-10-14T00:51:51.008Z",
   "asOf": "2026-10-14",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
-    "fetchedToday": 5,
-    "newsMemoryTotal": 131,
-    "considered": 1,
-    "adoptedCards": 1,
+    "fetchedToday": 6,
+    "newsMemoryTotal": 132,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -15,15 +15,15 @@
       "source": "総務省統計局",
       "status": "FETCHED",
       "read": 15,
-      "added": 1,
-      "fetchedAt": "2026-10-13T16:40:13.537Z"
+      "added": 0,
+      "fetchedAt": "2026-10-14T00:51:51.008Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 72,
-      "added": 4,
-      "fetchedAt": "2026-10-13T16:40:13.537Z"
+      "read": 73,
+      "added": 1,
+      "fetchedAt": "2026-10-14T00:51:51.008Z"
     }
   ],
   "sourceAudit": [
@@ -41,34 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "2b2dab55a1956ec11af2d13c5c4ba47fa6d65206ad2c77c0193b02bbce9f6e9c",
-      "category": "物価・金利",
-      "title": "「生活意識に関するアンケート調査」（第107回）の結果",
-      "summary": "「生活意識に関するアンケート調査」（第107回＜2026年9月調査＞）の結果 2026年10月13日 日本銀行情報サービス局 全文 [PDF 665KB] 調査概要 調査実施期間：2026年8月3日 ～ から 9月4日 調査対象：全国の満20歳以上の個人 標本数：4,000人（有効回答者数1,972",
-      "whatHappened": "「生活意識に関するアンケート調査」（第107回）の結果",
-      "whatChanged": "「生活意識に関するアンケート調査」（第107回＜2026年9月調査＞）の結果 2026年10月13日 日本銀行情報サービス局 全文 [PDF 665KB] 調査概要 調査実施期間：2026年8月3日 ～ から 9月4日 調査対象：全国の満20歳以上の個人 標本数：4,000人（有効回答者数1,972",
-      "relatedThemes": [
-        "銀行・保険",
-        "小売・消費"
-      ],
-      "status": "NEW",
-      "source": "日本銀行",
-      "publishedAt": "2026-10-13T04:30:00.000Z",
-      "firstSeenAt": "2026-10-13T16:40:13.537Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "「生活意識に関するアンケート調査」（第107回）の結果",
-          "url": "https://www.boj.or.jp/research/o_survey/ishiki2610.htm",
-          "source": "日本銀行"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "「生活意識に関するアンケート調査」（第107回＜2026年9月調査＞）の結果 2026年10月13日 日本銀行情報サービス局 全文 [PDF 665KB] 調査概要 調査実施期間：2026年8月3日 ～ から 9月4日 調査対象：全国の満20歳以上の個人 標本数：4,000人（有効回答者数1,972"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
