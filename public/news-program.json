@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T00:26:02.561Z",
+  "generatedAt": "2026-10-22T14:23:47.283Z",
   "asOf": "2026-10-22",
-  "edition": "MORNING",
-  "heading": "今日見る材料",
+  "edition": "EVENING",
+  "heading": "今日の振り返り",
   "counts": {
-    "fetchedToday": 1,
-    "newsMemoryTotal": 150,
-    "considered": 0,
-    "adoptedCards": 0,
+    "fetchedToday": 4,
+    "newsMemoryTotal": 153,
+    "considered": 1,
+    "adoptedCards": 1,
     "failedSources": 0
   },
   "sourceResults": [
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-10-22T00:26:02.561Z"
+      "fetchedAt": "2026-10-22T14:23:47.283Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 74,
-      "added": 1,
-      "fetchedAt": "2026-10-22T00:26:02.561Z"
+      "read": 78,
+      "added": 3,
+      "fetchedAt": "2026-10-22T14:23:47.283Z"
     }
   ],
   "sourceAudit": [
@@ -41,7 +41,35 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [],
-  "summary": [],
+  "cards": [
+    {
+      "id": "0222e285c8f107bc2db9a0a721da6fa846c90349a693860eaa6b25cde1ec6d37",
+      "category": "金融政策・市場",
+      "title": "（日銀レビュー）企業の決算説明会テキストを用いた経済政策不確実性の考察",
+      "summary": "時系列モデルを用いた分析からは、他の要因を考慮しても、企業EPU が上昇すると設備投資や雇用が減少することが示される。",
+      "whatHappened": "（日銀レビュー）企業の決算説明会テキストを用いた経済政策不確実性の考察",
+      "whatChanged": "時系列モデルを用いた分析からは、他の要因を考慮しても、企業EPU が上昇すると設備投資や雇用が減少することが示される。",
+      "relatedThemes": [
+        "銀行・保険",
+        "小売・消費",
+        "雇用"
+      ],
+      "status": "NEW",
+      "source": "日本銀行",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
+      "firstSeenAt": "2026-10-22T14:23:47.283Z",
+      "contentStatus": "VERIFIED_TEXT",
+      "links": [
+        {
+          "title": "（日銀レビュー）企業の決算説明会テキストを用いた経済政策不確実性の考察",
+          "url": "https://www.boj.or.jp/research/wps_rev/rev_2026/rev26j14.htm",
+          "source": "日本銀行"
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "時系列モデルを用いた分析からは、他の要因を考慮しても、企業EPU が上昇すると設備投資や雇用が減少することが示される。"
+  ],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
