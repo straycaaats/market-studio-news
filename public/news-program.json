@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T01:33:21.655Z",
-  "asOf": "2026-10-29",
+  "generatedAt": "2026-10-29T15:46:53.344Z",
+  "asOf": "2026-10-30",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
-    "fetchedToday": 3,
+    "fetchedToday": 0,
     "newsMemoryTotal": 162,
-    "considered": 1,
-    "adoptedCards": 1,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-10-29T01:33:21.655Z"
+      "fetchedAt": "2026-10-29T15:46:53.344Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
       "read": 71,
       "added": 0,
-      "fetchedAt": "2026-10-29T01:33:21.655Z"
+      "fetchedAt": "2026-10-29T15:46:53.344Z"
     }
   ],
   "sourceAudit": [
@@ -41,33 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "abcbb5080343cb2f4d46a3d85760113fd283dbce8cf5e38e12c87c7822e1da3c",
-      "category": "金融政策・市場",
-      "title": "「2025年経済構造実態調査」三次集計結果 産業横断調査（事業所に関する集計）",
-      "summary": "※金融商品取引法（昭和23年法律第25号）に基づく有価証券報告書等を提出している企業、売上高1000億円以上（かつ会社企業に限っては資本金2億円以上）の企業及び相互会社 経済構造実態調査推計手法について（事業所）（PDF：650KB） 利用上の注意 産業分類一覧 参考資料 事業",
-      "whatHappened": "「2025年経済構造実態調査」三次集計結果 産業横断調査（事業所に関する集計）",
-      "whatChanged": "※金融商品取引法（昭和23年法律第25号）に基づく有価証券報告書等を提出している企業、売上高1000億円以上（かつ会社企業に限っては資本金2億円以上）の企業及び相互会社 経済構造実態調査推計手法について（事業所）（PDF：650KB） 利用上の注意 産業分類一覧 参考資料 事業",
-      "relatedThemes": [
-        "銀行・保険"
-      ],
-      "status": "NEW",
-      "source": "総務省統計局",
-      "publishedAt": "2026-10-28",
-      "firstSeenAt": "2026-10-28T15:40:27.276Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "「2025年経済構造実態調査」三次集計結果 産業横断調査（事業所に関する集計）",
-          "url": "https://www.stat.go.jp/data/kkj/kekka/index.html",
-          "source": "総務省統計局"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "※金融商品取引法（昭和23年法律第25号）に基づく有価証券報告書等を提出している企業、売上高1000億円以上（かつ会社企業に限っては資本金2億円以上）の企業及び相互会社 経済構造実態調査推計手法について（事業所）（PDF：650KB） 利用上の注意 産業分類一覧 参考資料 事業"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
