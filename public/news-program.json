@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T15:40:27.276Z",
+  "generatedAt": "2026-10-29T01:33:21.655Z",
   "asOf": "2026-10-29",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
     "fetchedToday": 3,
     "newsMemoryTotal": 162,
-    "considered": 3,
+    "considered": 1,
     "adoptedCards": 1,
     "failedSources": 0
   },
@@ -15,15 +15,15 @@
       "source": "総務省統計局",
       "status": "FETCHED",
       "read": 15,
-      "added": 1,
-      "fetchedAt": "2026-10-28T15:40:27.276Z"
+      "added": 0,
+      "fetchedAt": "2026-10-29T01:33:21.655Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
       "read": 71,
-      "added": 2,
-      "fetchedAt": "2026-10-28T15:40:27.276Z"
+      "added": 0,
+      "fetchedAt": "2026-10-29T01:33:21.655Z"
     }
   ],
   "sourceAudit": [
