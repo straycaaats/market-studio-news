@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T15:46:53.344Z",
+  "generatedAt": "2026-10-30T01:32:55.257Z",
   "asOf": "2026-10-30",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
-    "fetchedToday": 0,
-    "newsMemoryTotal": 162,
-    "considered": 0,
-    "adoptedCards": 0,
+    "fetchedToday": 3,
+    "newsMemoryTotal": 165,
+    "considered": 1,
+    "adoptedCards": 1,
     "failedSources": 0
   },
   "sourceResults": [
@@ -15,15 +15,15 @@
       "source": "総務省統計局",
       "status": "FETCHED",
       "read": 15,
-      "added": 0,
-      "fetchedAt": "2026-10-29T15:46:53.344Z"
+      "added": 1,
+      "fetchedAt": "2026-10-30T01:32:55.257Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
       "read": 71,
-      "added": 0,
-      "fetchedAt": "2026-10-29T15:46:53.344Z"
+      "added": 2,
+      "fetchedAt": "2026-10-30T01:32:55.257Z"
     }
   ],
   "sourceAudit": [
@@ -41,7 +41,33 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [],
-  "summary": [],
+  "cards": [
+    {
+      "id": "a0b1ccf6c17fdbc96de09eddaba2173db652d6aeae179ebfc0e617bdd4034c07",
+      "category": "政策・公式発表",
+      "title": "日本銀行の役員に就いている退職公務員等の状況等の公表について",
+      "summary": "日本銀行の役員に就いている退職公務員等の状況等の公表について 2026年10月30日 日本銀行 「特殊法人等整理合理化計画」（平成13年12月19日閣議決定）、「公務員制度改革大綱」（平成13年12月25日閣議決定）、および「特別の法律により設立される民間法人の運営に関する指導監督基準」（平成14年",
+      "whatHappened": "日本銀行の役員に就いている退職公務員等の状況等の公表について",
+      "whatChanged": "日本銀行の役員に就いている退職公務員等の状況等の公表について 2026年10月30日 日本銀行 「特殊法人等整理合理化計画」（平成13年12月19日閣議決定）、「公務員制度改革大綱」（平成13年12月25日閣議決定）、および「特別の法律により設立される民間法人の運営に関する指導監督基準」（平成14年",
+      "relatedThemes": [
+        "銀行・保険"
+      ],
+      "status": "NEW",
+      "source": "日本銀行",
+      "publishedAt": "2026-10-29T23:50:00.000Z",
+      "firstSeenAt": "2026-10-30T01:32:55.257Z",
+      "contentStatus": "VERIFIED_TEXT",
+      "links": [
+        {
+          "title": "日本銀行の役員に就いている退職公務員等の状況等の公表について",
+          "url": "https://www.boj.or.jp/about/release_2026/rel261030a.htm",
+          "source": "日本銀行"
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "日本銀行の役員に就いている退職公務員等の状況等の公表について 2026年10月30日 日本銀行 「特殊法人等整理合理化計画」（平成13年12月19日閣議決定）、「公務員制度改革大綱」（平成13年12月25日閣議決定）、および「特別の法律により設立される民間法人の運営に関する指導監督基準」（平成14年"
+  ],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
