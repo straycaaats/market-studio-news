@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T03:18:13.143Z",
-  "asOf": "2026-11-03",
-  "edition": "EVENING",
-  "heading": "今日の振り返り",
+  "generatedAt": "2026-11-03T16:46:27.001Z",
+  "asOf": "2026-11-04",
+  "edition": "MORNING",
+  "heading": "今日見る材料",
   "counts": {
-    "fetchedToday": 5,
+    "fetchedToday": 0,
     "newsMemoryTotal": 179,
     "considered": 0,
     "adoptedCards": 0,
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-11-03T03:18:13.143Z"
+      "fetchedAt": "2026-11-03T16:46:27.001Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 70,
+      "read": 68,
       "added": 0,
-      "fetchedAt": "2026-11-03T03:18:13.143Z"
+      "fetchedAt": "2026-11-03T16:46:27.001Z"
     }
   ],
   "sourceAudit": [
