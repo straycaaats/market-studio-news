@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-04T16:45:29.388Z",
+  "generatedAt": "2026-11-05T01:59:19.369Z",
   "asOf": "2026-11-05",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
     "fetchedToday": 3,
     "newsMemoryTotal": 183,
-    "considered": 1,
-    "adoptedCards": 1,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-11-04T16:45:29.388Z"
+      "fetchedAt": "2026-11-05T01:59:19.369Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 73,
-      "added": 3,
-      "fetchedAt": "2026-11-04T16:45:29.388Z"
+      "read": 0,
+      "added": 0,
+      "fetchedAt": "2026-11-05T01:59:19.369Z"
     }
   ],
   "sourceAudit": [
@@ -41,35 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "e1ccc04653e51115a6268cb73292305babba2c355d78c3aafe5ecaed34de5d31",
-      "category": "金融政策・市場",
-      "title": "営業毎旬報告（10月31日現在）",
-      "summary": "（別表1） 資産項目中の「国債」の内訳 （単位：千円） 長期国債 505,277,353,999 国庫短期証券 0 （別表2） 「貸出支援基金」の内訳 （単位：千円） 貸出増加を支援するための資金供給 35,664,500,000 合計 35,664,500,000 （別表3） 別表3 （単位：千円",
-      "whatHappened": "営業毎旬報告（10月31日現在）",
-      "whatChanged": "（別表1） 資産項目中の「国債」の内訳 （単位：千円） 長期国債 505,277,353,999 国庫短期証券 0 （別表2） 「貸出支援基金」の内訳 （単位：千円） 貸出増加を支援するための資金供給 35,664,500,000 合計 35,664,500,000 （別表3） 別表3 （単位：千円",
-      "relatedThemes": [
-        "銀行・保険",
-        "輸出・製造業",
-        "国債・円相場"
-      ],
-      "status": "FOLLOW_UP",
-      "source": "日本銀行",
-      "publishedAt": "2026-11-04T01:00:00.000Z",
-      "firstSeenAt": "2026-11-04T01:53:25.614Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "営業毎旬報告（10月31日現在）",
-          "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
-          "source": "日本銀行"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "（別表1） 資産項目中の「国債」の内訳 （単位：千円） 長期国債 505,277,353,999 国庫短期証券 0 （別表2） 「貸出支援基金」の内訳 （単位：千円） 貸出増加を支援するための資金供給 35,664,500,000 合計 35,664,500,000 （別表3） 別表3 （単位：千円"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
