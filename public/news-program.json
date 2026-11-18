@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T03:19:04.880Z",
-  "asOf": "2026-11-18",
-  "edition": "EVENING",
-  "heading": "今日の振り返り",
+  "generatedAt": "2026-11-18T17:43:57.899Z",
+  "asOf": "2026-11-19",
+  "edition": "MORNING",
+  "heading": "今日見る材料",
   "counts": {
-    "fetchedToday": 2,
-    "newsMemoryTotal": 214,
+    "fetchedToday": 1,
+    "newsMemoryTotal": 215,
     "considered": 1,
     "adoptedCards": 1,
     "failedSources": 0
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-11-18T03:19:04.880Z"
+      "fetchedAt": "2026-11-18T17:43:57.899Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 71,
+      "read": 72,
       "added": 1,
-      "fetchedAt": "2026-11-18T03:19:04.880Z"
+      "fetchedAt": "2026-11-18T17:43:57.899Z"
     }
   ],
   "sourceAudit": [
@@ -54,7 +54,7 @@
         "輸出・製造業",
         "国債・円相場"
       ],
-      "status": "NEW",
+      "status": "FOLLOW_UP",
       "source": "日本銀行",
       "publishedAt": "2026-11-18T01:00:00.000Z",
       "firstSeenAt": "2026-11-18T03:19:04.880Z",
