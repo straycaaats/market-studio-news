@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-18T17:43:57.899Z",
+  "generatedAt": "2026-11-19T02:55:43.977Z",
   "asOf": "2026-11-19",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
-    "fetchedToday": 1,
-    "newsMemoryTotal": 215,
-    "considered": 1,
-    "adoptedCards": 1,
+    "fetchedToday": 2,
+    "newsMemoryTotal": 216,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-11-18T17:43:57.899Z"
+      "fetchedAt": "2026-11-19T02:55:43.977Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 72,
+      "read": 73,
       "added": 1,
-      "fetchedAt": "2026-11-18T17:43:57.899Z"
+      "fetchedAt": "2026-11-19T02:55:43.977Z"
     }
   ],
   "sourceAudit": [
@@ -41,35 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "77f6551315027e3f4eba650a667e3d0cbf779d4db5dd5c8ce978eca70e24704b",
-      "category": "金融政策・市場",
-      "title": "市場レベルBCP・3市場合同訓練を実施",
-      "summary": "今次訓練では、3市場共通の被災シナリオ（首都直下地震に加え、その発生直後に、サイバー攻撃が行われたとの想定）のもと、各市場の専用ウェブサイト等を用いて、各市場の金融機関・決済機関等の業務状況に関する情報共有や市場慣行変更・各種配慮要請の手順、関係当局を含む連絡体制の確認を行いました。",
-      "whatHappened": "市場レベルBCP・3市場合同訓練を実施",
-      "whatChanged": "今次訓練では、3市場共通の被災シナリオ（首都直下地震に加え、その発生直後に、サイバー攻撃が行われたとの想定）のもと、各市場の専用ウェブサイト等を用いて、各市場の金融機関・決済機関等の業務状況に関する情報共有や市場慣行変更・各種配慮要請の手順、関係当局を含む連絡体制の確認を行いました。",
-      "relatedThemes": [
-        "銀行・保険",
-        "輸出・製造業",
-        "国債・円相場"
-      ],
-      "status": "FOLLOW_UP",
-      "source": "日本銀行",
-      "publishedAt": "2026-11-18T01:00:00.000Z",
-      "firstSeenAt": "2026-11-18T03:19:04.880Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "市場レベルBCP・3市場合同訓練を実施",
-          "url": "https://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
-          "source": "日本銀行"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "今次訓練では、3市場共通の被災シナリオ（首都直下地震に加え、その発生直後に、サイバー攻撃が行われたとの想定）のもと、各市場の専用ウェブサイト等を用いて、各市場の金融機関・決済機関等の業務状況に関する情報共有や市場慣行変更・各種配慮要請の手順、関係当局を含む連絡体制の確認を行いました。"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }

@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-18T17:43:57.899Z",
+  "generatedAt": "2026-11-19T02:55:43.977Z",
   "asOf": "2026-11-19",
   "edition": "MORNING",
   "sourceResults": [
@@ -9,21 +9,21 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-11-18T17:43:57.899Z"
+      "fetchedAt": "2026-11-19T02:55:43.977Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 72,
+      "read": 73,
       "added": 1,
-      "fetchedAt": "2026-11-18T17:43:57.899Z"
+      "fetchedAt": "2026-11-19T02:55:43.977Z"
     }
   ],
   "counts": {
-    "fetchedToday": 1,
-    "newsMemoryTotal": 215,
-    "considered": 1,
-    "adoptedCards": 1,
+    "fetchedToday": 2,
+    "newsMemoryTotal": 216,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   }
 }
