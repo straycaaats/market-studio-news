@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-20T17:27:58.417Z",
+  "generatedAt": "2026-11-21T02:58:30.259Z",
   "asOf": "2026-11-21",
   "edition": "MORNING",
   "heading": "今日見る材料",
   "counts": {
     "fetchedToday": 5,
     "newsMemoryTotal": 224,
-    "considered": 3,
-    "adoptedCards": 1,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -15,15 +15,15 @@
       "source": "総務省統計局",
       "status": "FETCHED",
       "read": 15,
-      "added": 3,
-      "fetchedAt": "2026-11-20T17:27:58.417Z"
+      "added": 0,
+      "fetchedAt": "2026-11-21T02:58:30.259Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 77,
-      "added": 2,
-      "fetchedAt": "2026-11-20T17:27:58.417Z"
+      "read": 74,
+      "added": 0,
+      "fetchedAt": "2026-11-21T02:58:30.259Z"
     }
   ],
   "sourceAudit": [
@@ -41,34 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "94103fd42a08e4ed6358aaa73dc722048615917e6b2c7f054bc5da6879eaa2ef",
-      "category": "金融政策・市場",
-      "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
-      "summary": "コロナ禍以降のインフレ予想の上昇局面についてみると、インフレ経験やインフレ実感のトレンド成分といった、相対的に緩やかに動く要因の寄与が拡大していることも示された。",
-      "whatHappened": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
-      "whatChanged": "コロナ禍以降のインフレ予想の上昇局面についてみると、インフレ経験やインフレ実感のトレンド成分といった、相対的に緩やかに動く要因の寄与が拡大していることも示された。",
-      "relatedThemes": [
-        "銀行・保険",
-        "小売・消費"
-      ],
-      "status": "NEW",
-      "source": "日本銀行",
-      "publishedAt": "2026-11-20T07:00:00.000Z",
-      "firstSeenAt": "2026-11-20T17:27:58.417Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
-          "url": "https://www.boj.or.jp/research/wps_rev/wps_2026/wp26j12.htm",
-          "source": "日本銀行"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "コロナ禍以降のインフレ予想の上昇局面についてみると、インフレ経験やインフレ実感のトレンド成分といった、相対的に緩やかに動く要因の寄与が拡大していることも示された。"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
