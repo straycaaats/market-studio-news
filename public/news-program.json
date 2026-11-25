@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T19:51:46.196Z",
+  "generatedAt": "2026-11-25T04:46:13.437Z",
   "asOf": "2026-11-25",
-  "edition": "MORNING",
-  "heading": "今日見る材料",
+  "edition": "EVENING",
+  "heading": "今日の振り返り",
   "counts": {
-    "fetchedToday": 2,
-    "newsMemoryTotal": 227,
-    "considered": 2,
-    "adoptedCards": 1,
+    "fetchedToday": 5,
+    "newsMemoryTotal": 230,
+    "considered": 0,
+    "adoptedCards": 0,
     "failedSources": 0
   },
   "sourceResults": [
@@ -16,14 +16,14 @@
       "status": "FETCHED",
       "read": 15,
       "added": 0,
-      "fetchedAt": "2026-11-24T19:51:46.196Z"
+      "fetchedAt": "2026-11-25T04:46:13.437Z"
     },
     {
       "source": "日本銀行",
       "status": "FETCHED",
-      "read": 65,
-      "added": 2,
-      "fetchedAt": "2026-11-24T19:51:46.196Z"
+      "read": 68,
+      "added": 3,
+      "fetchedAt": "2026-11-25T04:46:13.437Z"
     }
   ],
   "sourceAudit": [
@@ -41,35 +41,7 @@
     }
   ],
   "summaryMode": "RULE_BASED_VERIFIED_TEXT",
-  "cards": [
-    {
-      "id": "608608ec29c078842e5f88528a3e2414335d24f43fd9fe1e62d3869ba70f7b46",
-      "category": "金融政策・市場",
-      "title": "日本銀行政策委員会月報（令和8年10月号）",
-      "summary": "日本銀行政策委員会月報 令和8年10月（第917号） 1．議決事項 （1）金融政策決定会合関係 案件名 金融市場調節方針の決定に関する件（10月29・30日）[PDF 52KB] 「指数連動型上場投資信託受益権等の処分の指針」の一部改正に関する件（10月29・30日）[PDF 122KB] 「当面の",
-      "whatHappened": "日本銀行政策委員会月報（令和8年10月号）",
-      "whatChanged": "日本銀行政策委員会月報 令和8年10月（第917号） 1．議決事項 （1）金融政策決定会合関係 案件名 金融市場調節方針の決定に関する件（10月29・30日）[PDF 52KB] 「指数連動型上場投資信託受益権等の処分の指針」の一部改正に関する件（10月29・30日）[PDF 122KB] 「当面の",
-      "relatedThemes": [
-        "銀行・保険",
-        "小売・消費",
-        "国債・円相場"
-      ],
-      "status": "NEW",
-      "source": "日本銀行",
-      "publishedAt": "2026-11-24T07:30:00.000Z",
-      "firstSeenAt": "2026-11-24T19:51:46.196Z",
-      "contentStatus": "VERIFIED_TEXT",
-      "links": [
-        {
-          "title": "日本銀行政策委員会月報（令和8年10月号）",
-          "url": "https://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2610.htm",
-          "source": "日本銀行"
-        }
-      ]
-    }
-  ],
-  "summary": [
-    "日本銀行政策委員会月報 令和8年10月（第917号） 1．議決事項 （1）金融政策決定会合関係 案件名 金融市場調節方針の決定に関する件（10月29・30日）[PDF 52KB] 「指数連動型上場投資信託受益権等の処分の指針」の一部改正に関する件（10月29・30日）[PDF 122KB] 「当面の"
-  ],
+  "cards": [],
+  "summary": [],
   "qualityNote": "NEWS MEMORYへの保存と表示用編集を分離。公式本文を確認できない情報は、見出し以上に補完しない。株価予想・売買推奨は行わない。"
 }
